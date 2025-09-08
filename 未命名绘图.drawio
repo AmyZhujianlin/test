@@ -149,22 +149,22 @@
           <mxGeometry x="714.75" y="452" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-110" value="集团网络分区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="160" width="180" height="30" as="geometry" />
+          <mxGeometry x="820" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-111" value="信息化管理区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="160" width="180" height="30" as="geometry" />
+          <mxGeometry x="995" y="160" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MuyticEhHvetqQvFZnG9-112" value="集团数据中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="MuyticEhHvetqQvFZnG9-112" value="集团数据中台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5A86FF;" vertex="1" parent="1">
+          <mxGeometry x="849" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MuyticEhHvetqQvFZnG9-113" value="一网通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="MuyticEhHvetqQvFZnG9-113" value="一网通" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5A86FF;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-114" value="国资专网" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="160" width="180" height="30" as="geometry" />
+          <mxGeometry x="1200" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MuyticEhHvetqQvFZnG9-115" value="数字国资数据共享交换平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="MuyticEhHvetqQvFZnG9-115" value="数字国资数据共享交换平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5A86FF;" vertex="1" parent="1">
+          <mxGeometry x="1203" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-116" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -174,14 +174,14 @@
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="970" as="sourcePoint" />
-            <mxPoint x="1030" y="160" as="targetPoint" />
+            <mxPoint x="993" y="970" as="sourcePoint" />
+            <mxPoint x="993" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="970" as="sourcePoint" />
-            <mxPoint x="1210" y="160" as="targetPoint" />
+            <mxPoint x="1173" y="970" as="sourcePoint" />
+            <mxPoint x="1173" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-74" target="MuyticEhHvetqQvFZnG9-115">
