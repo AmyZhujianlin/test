@@ -161,8 +161,8 @@
         <mxCell id="MuyticEhHvetqQvFZnG9-105" value="广东省交通集团广乐数据中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="170" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MuyticEhHvetqQvFZnG9-51" value="MysSQL RDS云原生集群" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="714.75" y="452" width="48" height="64" as="geometry" />
+        <mxCell id="MuyticEhHvetqQvFZnG9-51" value="MysSQL云原生集群&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;172.29.9.28&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="714.75" y="444" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-110" value="集团网络分区" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="160" width="110" height="30" as="geometry" />
