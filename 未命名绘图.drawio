@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.0">
   <diagram name="第 1 页" id="fBebws8vC5tvTxWVOOk-">
-    <mxGraphModel dx="1405" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,11 +55,11 @@
         <mxCell id="MuyticEhHvetqQvFZnG9-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-86" target="MuyticEhHvetqQvFZnG9-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MuyticEhHvetqQvFZnG9-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-37" target="MuyticEhHvetqQvFZnG9-72">
+        <mxCell id="MuyticEhHvetqQvFZnG9-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-37" target="MuyticEhHvetqQvFZnG9-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-37" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;SLB云资源" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.slb_server_load_balancer_02;" vertex="1" parent="1">
-          <mxGeometry x="289" y="547" width="60" height="60" as="geometry" />
+          <mxGeometry x="285.5" y="670" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-52" value="Redis云原生集群" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="714.75" y="600.7" width="50" height="42" as="geometry" />
@@ -76,11 +76,21 @@
         <mxCell id="MuyticEhHvetqQvFZnG9-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-72" target="MuyticEhHvetqQvFZnG9-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MuyticEhHvetqQvFZnG9-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.473;entryY=-0.19;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-72" target="MuyticEhHvetqQvFZnG9-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="680" />
+              <mxPoint x="504" y="680" />
+              <mxPoint x="504" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-72" value="Nginx" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="449" y="552" width="40" height="50" as="geometry" />
+          <mxGeometry x="435" y="552" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-77" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="251" y="680" width="159.5" height="240" as="geometry" />
+          <mxGeometry x="251" y="769" width="159.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MuyticEhHvetqQvFZnG9-77">
           <mxGeometry width="159.5" height="240" as="geometry" />
@@ -125,7 +135,12 @@
           <mxGeometry x="35" y="417" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MuyticEhHvetqQvFZnG9-85" target="MuyticEhHvetqQvFZnG9-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="577" />
+              <mxPoint x="190" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-85" value="Web" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="553.3" width="60" height="47.400000000000006" as="geometry" />
@@ -138,7 +153,7 @@
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-104" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="970" as="sourcePoint" />
+            <mxPoint x="820" y="1030" as="sourcePoint" />
             <mxPoint x="820" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -168,19 +183,19 @@
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-116" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="980" as="sourcePoint" />
+            <mxPoint x="220" y="1030" as="sourcePoint" />
             <mxPoint x="220" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="993" y="970" as="sourcePoint" />
+            <mxPoint x="993" y="1030" as="sourcePoint" />
             <mxPoint x="993" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MuyticEhHvetqQvFZnG9-120" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1173" y="970" as="sourcePoint" />
+            <mxPoint x="1173" y="1030" as="sourcePoint" />
             <mxPoint x="1173" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -200,6 +215,18 @@
             <mxPoint x="620" y="440" as="sourcePoint" />
             <mxPoint x="670" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MuyticEhHvetqQvFZnG9-141" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="427" y="706" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MuyticEhHvetqQvFZnG9-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MuyticEhHvetqQvFZnG9-141">
+          <mxGeometry width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MuyticEhHvetqQvFZnG9-131" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 11pt;&quot;&gt;172.20.240.102&lt;/span&gt;&lt;/p&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" vertex="1" parent="MuyticEhHvetqQvFZnG9-141">
+          <mxGeometry x="61" y="9" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MuyticEhHvetqQvFZnG9-133" value="一企一屏应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MuyticEhHvetqQvFZnG9-141">
+          <mxGeometry x="33.5" y="99" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
